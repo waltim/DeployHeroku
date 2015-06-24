@@ -1,5 +1,7 @@
 <?php
 
+echo 'tutorial de aprendizado do Heroku!!';
+
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
